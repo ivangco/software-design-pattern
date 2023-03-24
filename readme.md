@@ -98,4 +98,18 @@ Estos patrones de diseño por comportamiento se utilizan para definir la colabor
 - Patrón de diseño Estrategia (Strategy Design Pattern)
 - Patrón de diseño Plantilla de método (Template Method Design Pattern)
 - Patrón de diseño Estado (State Design Pattern)
-- Patrón de diseño Memento (Memento Design Pattern)# software-design-pattern
+- Patrón de diseño Memento (Memento Design Pattern)
+
+La secuencia de aprendizaje de los patrones de diseño puede variar dependiendo de la experiencia y habilidades previas que tengas. Sin embargo, aquí te muestro una posible secuencia en la que podrías aprender los patrones de diseño:
+
+- Aprende los conceptos básicos de programación orientada a objetos (POO), como clases, objetos, herencia, polimorfismo, etc. Será más fácil entender los patrones de diseño después de conocer estos conceptos.
+
+- Aprende patrones de diseño creacionales, como Singleton, Factory, Abstract Factory, etc. Estos patrones tratan cómo crear objetos de manera más flexible y mantenible.
+
+- Aprende patrones de diseño estructurales, como Adapter, Bridge, Decorator, etc. Estos patrones se centran en la composición de objetos y cómo se agrupan para formar estructuras más grandes pero flexibles.
+
+- Aprende patrones de diseño de comportamiento, como Observer, Strategy, Template Method, etc. Estos patrones describen cómo los objetos interactúan entre sí y cómo se comunican para lograr objetivos.
+
+- Aprende patrones de diseño arquitectónico, como Microservicios, Monolith-to-Microservices, Event-driven, etc. Estos patrones se centran en cómo se modela y organiza una aplicación completa.
+
+Es importante tener en cuenta que la comprensión de los patrones de diseño no significa que siempre debas aplicarlos. La decisión de aplicar patrones de diseño debe tomarse cuidadosamente en función de los requisitos y el contexto del proyecto.
